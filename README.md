@@ -552,7 +552,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 * [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
 * [you-get](https://you-get.org/) - A YouTube/Youku/Niconico video downloader written in Python 3.
-* [youtube-dl](https://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A small command-line program to download videos from YouTube.
+* [spotdl](https://github.com/spotDL/spotify-downloader) - Spotify downloader which supports playlists and albums.
 
 ## E-commerce
 
